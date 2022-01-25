@@ -1,0 +1,1 @@
+<h1>A story with title of {{ $title }} was added</h1>
